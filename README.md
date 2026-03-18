@@ -60,10 +60,10 @@ The final merged dataset covers January 1984 through present at monthly resoluti
 
 ```
 data/
-  raw/                    downloaded source files
+  raw/                          downloaded source files
   processed/
     merged_dataset.csv
     model_results.csv
     feature_importance.csv
-    plots/                7 figures
+    plots/                      7 figures
 ```
